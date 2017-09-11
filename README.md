@@ -1,4 +1,4 @@
 # hello-world
-This project is to display Hello World.
+This project is to display Hello world.
 
 Author: Praveen K H
